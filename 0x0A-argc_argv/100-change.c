@@ -40,4 +40,5 @@ int main(int argc, char *argv[])
 	}
 
 	printf("%d\n", result);
-	retu
+	return (0);
+}
